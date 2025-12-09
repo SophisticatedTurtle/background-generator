@@ -1,0 +1,23 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "test",
+  "homepage": "https://github.com/SophisticatedTurtle/background-generator#readme",
+  "bugs": {
+    "url": "https://github.com/SophisticatedTurtle/background-generator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SophisticatedTurtle/background-generator.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
